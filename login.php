@@ -10,6 +10,7 @@
 
     include 'lib/session.php';
     // bắt buộc đăng nhập bằng tài khoản
+    // bắt buộc đăng nhập bằng tài khoản
     Session::init();
 ?>
 <?php
